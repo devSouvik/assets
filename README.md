@@ -1,7 +1,1 @@
-# this is a heading
-
-this is a desc
-
-## this is a sub header
-
-this is subheader desc
+## this repo holds assets for the weather app, made with flutter.
